@@ -15,7 +15,7 @@ corporels de la route en France (données ONISR – 2023).
 Sources : ONISR – fichiers `caract`, `lieux`, `vehicules`, `usagers` (2023).
 
 ## Application en ligne
-[https://<votre_compte>.shinyapps.io/<nom_app>/](https://kmguenou.shinyapps.io/Dashboard/)
+https://kmguenou.shinyapps.io/ONISR-Shiny-Accidents/
 
 ## Auteur
 Marcus Guenou – ISUP / Sorbonne Université
